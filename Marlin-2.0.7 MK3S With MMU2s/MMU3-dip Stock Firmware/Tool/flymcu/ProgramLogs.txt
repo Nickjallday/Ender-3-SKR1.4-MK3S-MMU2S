@@ -1,5 +1,0 @@
-[2021-03-22 20:25:Program Success:F3FFFFFFFFFFFFFFFFFFFFFF C:\Users\Nicho\Desktop\MMU Fix\MMU3-dip Stock Firmware\.pio\build\MMU2_F030C8\firmware.hex
-[2021-03-22 20:30:Program Success:F3FFFFFFFFFFFFFFFFFFFFFF C:\Users\Nicho\Desktop\MMU Fix\MMU3-dip Stock Firmware\.pio\build\MMU2_F030C8\firmware.hex
-[2021-03-22 20:36:Program Success:F3FFFFFFFFFFFFFFFFFFFFFF C:\Users\Nicho\Desktop\MMU Fix\MMU3-dip Stock Firmware\.pio\build\MMU2_F030C8\firmware.hex
-[2021-03-22 20:57:Program Success:F3FFFFFFFFFFFFFFFFFFFFFF C:\Users\Nicho\Desktop\MMU Fix\MMU3-dip Stock Firmware\.pio\build\MMU2_F030C8\firmware.hex
-[2021-03-22 21:00:Program Success:F3FFFFFFFFFFFFFFFFFFFFFF C:\Users\Nicho\Desktop\MMU Fix\MMU3-dip Stock Firmware\.pio\build\MMU2_F030C8\firmware.hex
