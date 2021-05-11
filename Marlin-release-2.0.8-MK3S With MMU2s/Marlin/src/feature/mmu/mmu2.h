@@ -31,8 +31,8 @@
   #define MMU_RX_SIZE 256
   #define MMU_TX_SIZE 256
 #else
-  #define MMU_RX_SIZE  64
-  #define MMU_TX_SIZE  64
+  #define MMU_RX_SIZE  16
+  #define MMU_TX_SIZE  16
 #endif
 
 struct E_Step;

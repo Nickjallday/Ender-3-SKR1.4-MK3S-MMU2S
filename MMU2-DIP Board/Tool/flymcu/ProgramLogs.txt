@@ -1,0 +1,1 @@
+[2021-05-09 09:15:Program Success:F3FFFFFFFFFFFFFFFFFFFFFF C:\Users\Nicho\Documents\GitHub\Ender-3-SKR1.4-MK3S-MMU2S\MMU2-DIP Board\.pio\build\MMU2_F030C8\firmware.hex
